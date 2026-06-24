@@ -1,0 +1,12 @@
+{
+  "name": "dotnet-wpf",
+  "displayName": ".NET / WPF",
+  "description": "A complete toolkit for building Windows desktop applications with .NET and WPF (Windows Presentation Foundation) — including XAML component generation, MVVM scaffolding, MSBuild commands, and .NET developer agent expertise.",
+  "version": "1.0.0",
+  "author": {
+    "name": "my-claude-plugins",
+    "email": "owner@example.com"
+  },
+  "license": "MIT",
+  "keywords": ["dotnet", "wpf", "windows", "desktop", "csharp", "xaml", "mvvm", "msbuild"]
+}

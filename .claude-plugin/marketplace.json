@@ -23,6 +23,21 @@
       "source": "./plugins/frontend-design"
     },
     {
+      "name": "dotnet-wpf",
+      "displayName": ".NET / WPF",
+      "description": "A complete toolkit for building Windows desktop applications with .NET and WPF (Windows Presentation Foundation) — XAML component generation, MVVM scaffolding, MSBuild commands, and .NET developer agent expertise.",
+      "version": "1.0.0",
+      "author": {
+        "name": "my-claude-plugins",
+        "email": "owner@example.com"
+      },
+      "license": "MIT",
+      "category": "desktop",
+      "tags": ["dotnet", "wpf", "csharp", "xaml", "mvvm", "windows", "desktop"],
+      "keywords": ["dotnet", "wpf", "windows", "desktop", "csharp", "xaml", "mvvm", "msbuild"],
+      "source": "./plugins/dotnet-wpf"
+    },
+    {
       "name": "superpowers",
       "displayName": "Superpowers",
       "description": "A skills library and methodology framework by obra (Jesse Vincent) that guides Claude Code through proven software development practices — brainstorming, test-driven development, code review, plan writing, and verification-before-completion.",
