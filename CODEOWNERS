@@ -1,0 +1,12 @@
+# Default reviewers for marketplace changes
+# Add your GitHub handle here when you want to require review for marketplace-wide changes.
+
+# Marketplace manifest
+/.claude-plugin/ @owner
+
+# New plugin submissions
+/plugins/ @owner
+
+# Documentation
+/README.md @owner
+/CONTRIBUTING.md @owner

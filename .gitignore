@@ -1,0 +1,30 @@
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Node (for plugins that ship JS)
+node_modules/
+*.log
+.env
+.env.local
+
+# Python (for plugins that ship Python)
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+
+# Build artifacts
+dist/
+build/
+*.tmp
+
+# Validation output
+.claude/validate-output.txt

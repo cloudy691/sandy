@@ -1,0 +1,30 @@
+{
+  "$schema": "https://code.claude.com/docs/claude_code_mcp_plugins_marketplace.json",
+  "name": "my-claude-plugins",
+  "description": "A curated marketplace for Claude Code plugins — custom skills, agents, hooks, and MCP servers that extend Claude Code's capabilities.",
+  "owner": {
+    "name": "my-claude-plugins",
+    "email": "owner@example.com"
+  },
+  "plugins": [
+    {
+      "name": "frontend-design",
+      "displayName": "Frontend Design",
+      "description": "A comprehensive suite of tools for frontend design tasks — UI review, component generation, wireframing, and design system enforcement.",
+      "version": "1.0.0",
+      "author": {
+        "name": "my-claude-plugins",
+        "email": "owner@example.com"
+      },
+      "license": "MIT",
+      "category": "frontend",
+      "tags": ["design", "ui", "component", "wireframe", "css", "html", "react", "vue", "tailwind"],
+      "keywords": ["frontend", "design", "UI", "UX", "components", "design-system"],
+      "source": "./plugins/frontend-design"
+    }
+  ],
+  "version": "1",
+  "metadata": {
+    "pluginRoot": "."
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "name": "frontend-design",
+  "displayName": "Frontend Design",
+  "description": "A comprehensive suite of tools for frontend design tasks — UI review, component generation, wireframing, and design system enforcement.",
+  "version": "1.0.0",
+  "author": {
+    "name": "my-claude-plugins",
+    "email": "owner@example.com"
+  },
+  "license": "MIT"
+}
