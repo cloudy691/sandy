@@ -21,6 +21,29 @@
       "tags": ["design", "ui", "component", "wireframe", "css", "html", "react", "vue", "tailwind"],
       "keywords": ["frontend", "design", "UI", "UX", "components", "design-system"],
       "source": "./plugins/frontend-design"
+    },
+    {
+      "name": "superpowers",
+      "displayName": "Superpowers",
+      "description": "A skills library and methodology framework by obra (Jesse Vincent) that guides Claude Code through proven software development practices — brainstorming, test-driven development, code review, plan writing, and verification-before-completion.",
+      "version": "1.0.0",
+      "author": {
+        "name": "obra",
+        "email": "obra@obra.dev",
+        "url": "https://github.com/obra"
+      },
+      "license": "MIT",
+      "homepage": "https://github.com/obra/superpowers",
+      "category": "methodology",
+      "tags": ["superpowers", "tdd", "brainstorming", "code-review", "planning", "methodology"],
+      "keywords": ["superpowers", "obra", "tdd", "best-practices", "verification"],
+      "source": {
+        "source": "git-subdir",
+        "url": "obra/superpowers",
+        "path": ".",
+        "ref": "main",
+        "sha": "896224c4b1879920ab573417e68fd51d2ccc9072"
+      }
     }
   ],
   "version": "1",
